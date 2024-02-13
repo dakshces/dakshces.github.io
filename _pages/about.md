@@ -3,8 +3,7 @@ layout: about
 title: about
 nav: true
 permalink: /
-subtitle: <a href=https://www.brown.edu/academics/math/>Brown
-University, Mathematics</a>. 
+subtitle: <a href=https://www.brown.edu/academics/math/>Brown University, Mathematics</a>. 
 
 profile:
   align: right
