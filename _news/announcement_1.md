@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending the [Arizona Winter School](https://swc-math.github.io) in Tucson, AZ (March 1-7])! 🏜️
+I will be attending the [Arizona Winter School](https://swc-math.github.io) in Tucson, AZ (March 1-7)! 🏜️
