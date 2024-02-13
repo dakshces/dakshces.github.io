@@ -167,7 +167,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: false
+    output: true
     permalink: /news/:path/
   projects:
     output: true
@@ -184,7 +184,7 @@ latest_posts:
   limit: 0 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
-# Jekyll setting
+# Jekyll settings
 # -----------------------------------------------------------------------------
 
 # Markdown and syntax highlight
