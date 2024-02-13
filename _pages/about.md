@@ -18,4 +18,4 @@ social: true # includes social icons at the bottom of the page
 
 I am a second-year math Ph.D. student at Brown University. Earlier, I studied mathematics and computer science at Grinnell College, Iowa, advised by Prof. Jennifer Paulhus and Prof. Nicole Eikmeier. I also spent my senior year in the Budapest Semesters in Math program. 
 
-My email is [first\_name]\_[last\_name]@brown.edu. 
+My publications and preprints can be found [here](https://dakshces.github.io/publications/). My email is [first\_name]\_[last\_name]@brown.edu. 
