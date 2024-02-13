@@ -357,7 +357,7 @@ imagemagick:
     webp: "-quality 85"
 
 # -----------------------------------------------------------------------------
-# Optional Feature
+# Optional Features
 # -----------------------------------------------------------------------------
 
 enable_google_analytics: false # enables google analytics
