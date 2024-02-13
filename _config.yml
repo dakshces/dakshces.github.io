@@ -184,7 +184,7 @@ latest_posts:
   limit: 0 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
-# Jekyll settings
+# Jekyll setting
 # -----------------------------------------------------------------------------
 
 # Markdown and syntax highlight
