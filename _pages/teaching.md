@@ -1,11 +1,22 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /other writing/
 description: Materials for courses you taught. Replace this text with your description.
-nav: false
-nav_order: 6
+nav: true
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Expository writing
+======
+1. [Computing the Mordell-Weil group of elliptic curves](https://dakshces.github.io/files/ell_rational.pdf)
+2. [Artin L-function for graphs](https://dakshces.github.io/files/graph-theoretic-artin-l.pdf)
+3. [A brief introduction to discrepancy theory](https://dakshces.github.io/files/discrepancy.pdf)
+4. [An introduction to DFT and digital filtering](https://dakshces.github.io/files/dft_filtering-2.pdf)
+<!-- 5. [An introduction to numerical integration](https://dakshces.github.io/files/numerical_integration-2.pdf)-->
 
-Organize your courses by years, topics, or universities, however you like!
+Notes (use at your own risk!)
+======
+1. [Representation theory of GL(2, F_q)](https://dakshces.github.io/files/gl2fq.pdf)
+2. [Representation theory of Heisenberg group over F_q](https://dakshces.github.io/files/heisenberg-2.pdf)
+3. [Ideal factorization in Dedekind domains](https://dakshces.github.io/files/algebntnotes-2.pdf)
+4. [Basic Riemann surface theory](https://dakshces.github.io/files/notesrs.pdf)
