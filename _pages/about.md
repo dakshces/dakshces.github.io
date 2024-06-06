@@ -6,7 +6,7 @@ subtitle: <a href=https://www.brown.edu/academics/math/>Brown University, Mathem
 
 profile:
   align: right
-  image: daksh.jpg
+  image: daksh.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
 
