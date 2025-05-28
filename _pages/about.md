@@ -22,4 +22,4 @@ Additionally, I like using my math and CS background in studying generative mode
 
 Earlier, I studied mathematics and computer science at Grinnell College, Iowa, advised by [Prof. Jennifer Paulhus](https://paulhus.math.grinnell.edu/index.html) and [Prof. Nicole Eikmeier](https://eikmeier.sites.grinnell.edu). I also spent my senior year in the Budapest Semesters in Math program, and I highly recommend it.
 
-My publications and preprints can be found [here](https://dakshces.github.io/publications/). My email is [first\_name]\_[last\_name]@brown.edu.
+My publications and preprints can be found [here](https://dakshces.github.io/publications/). My email address is [first\_name]\_[last\_name]@brown.edu.
