@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a third-year math Ph.D. student at Brown University. I am fortunate to be advised by [Prof. Isabel Vogt](https://www.math.brown.edu/ivogt/). I am currently interested in algebraic geometry, and am working on the Brill-Noether theory of special k-gonal curves.
+Hi! I am a fourth-year math Ph.D. student at Brown University. I am fortunate to be advised by [Prof. Isabel Vogt](https://www.math.brown.edu/ivogt/). I am currently interested in algebraic geometry, and am working on the Brill-Noether theory of special k-gonal curves.
 
 Additionally, I like using my math and CS background in studying generative modeling, and am also currently doing research in the [PALM AI lab](https://chensun.me). 
 
